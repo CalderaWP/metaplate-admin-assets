@@ -3,7 +3,7 @@
     "description": "Admin assets for Caldera Metaplate.",
     "type": "library",
     "keywords": [
-        "wordpress"
+        "wordpress", "metaplate"
     ],
     "license": "GPL-2.0+",
     "authors": [
